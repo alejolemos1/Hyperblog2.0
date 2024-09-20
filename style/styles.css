@@ -25,6 +25,12 @@ body
 	font-size: 0.8em;
 }
 
+#footer
+{
+	background: #221;
+	color: white
+}
+
 #container
 {
 	width: 70%;
